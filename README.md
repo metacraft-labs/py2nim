@@ -1,8 +1,12 @@
 # py2nim
 
-A WIP tool for porting Python code to Nim
+A new WIP tool for porting Python code to Nim
 
 Based on [languist](https://github.com/metacraft-labs/languist)
+
+## notice
+
+the original py2nim is on https://github.com/metacraft-labs/py2nim_deprecated/ : most of the stars/watches/forks are probably for it. it's probably closer to working state, but this version might be more ready for the future, as it builds on the languist code which should support more languages 
 
 ## how to use
 
